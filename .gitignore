@@ -1,0 +1,8 @@
+# Byggmapper
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+*.exe
+*.obj
+*.o
+*.log
