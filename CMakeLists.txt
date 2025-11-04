@@ -14,4 +14,7 @@ add_executable(SimpleSearch
         EBankAccountType.h
         SearchSummary.h
         Search.h
+        main.cpp
+        EBankAccountType.h
+        main.cpp
 )
